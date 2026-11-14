@@ -1,0 +1,5 @@
+{"text":"### Pregunta:\n¿Qué es una API REST?\n### Respuesta:\nEs una interfaz que permite que aplicaciones se comuniquen mediante HTTP, utilizando recursos y métodos como GET, POST, PUT y DELETE."}
+{"text":"### Pregunta:\n¿Qué diferencia hay entre GET y POST?\n### Respuesta:\nGET se utiliza para consultar información. POST se utiliza para enviar datos y normalmente crear un recurso."}
+{"text":"### Pregunta:\n¿Cómo consulto un endpoint con Python?\n### Respuesta:\nPuedes utilizar la librería requests: response = requests.get('https://api.example.com/users'). Después puedes obtener los datos con response.json()."}
+{"text":"### Pregunta:\n¿Qué significa un código HTTP 404?\n### Respuesta:\nSignifica que el recurso solicitado no fue encontrado en el servidor."}
+{"text":"### Pregunta:\n¿Qué significa un código HTTP 401?\n### Respuesta:\nSignifica que la petición no está autenticada o que las credenciales proporcionadas no son válidas."}
