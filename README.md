@@ -32,3 +32,9 @@ python -m pip install -r requirements.txt
 ```bash
 deactivate
 ```
+
+# Run server
+
+```bash
+uvicorn server:app --host 127.0.0.1 --port 8000
+```
